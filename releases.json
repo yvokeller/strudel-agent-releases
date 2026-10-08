@@ -1,0 +1,22 @@
+{
+  "releases": [
+    {
+      "version": "0.2.0",
+      "build": "202610082137",
+      "commit": "26ec2f92003fb76795950afc6539a8478111cf54",
+      "date": "2026-10-08T21:39:13Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.0/Strudel-0.2.0-202610082137.dmg",
+      "length": 23383827,
+      "edSignature": "YlEQitV46MhIvqTenDIt/ePuYhkFdWYPGWEPN77mKOLuZ06uUjXr2wIyHbD+KgrJ9WQHqT4lTCWPmn/N5BACBw==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Sparkle auto-update, releases in yvokeller/strudel-agent-releases",
+        "Overlay draws only its glass shapes, no shadow plate between them",
+        "Overlay shortcut no longer brings the main window forward",
+        "Overlay file panel in front, mic click toggle, Space push-to-talk, no silent memos, steered order",
+        "Overlay-agents demo opens the agent list after the overlay is shown"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.0"
+    }
+  ]
+}
