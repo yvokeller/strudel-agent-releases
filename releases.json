@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "version": "0.2.1",
+      "build": "202610090836",
+      "commit": "5a6ccf1146ef730f65c5898c191abd6dc6564e86",
+      "date": "2026-10-09T08:37:49Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.1/Strudel-0.2.1-202610090836.dmg",
+      "length": 24424602,
+      "edSignature": "JkWYTeMwKjRlyTLdP/9RbFG4mCI5CdYKLD542YgCFAnALubrFLL8bNcMdz24x3MBE2cG6lNj7uJylMALHoQRAw==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Galaxy app icon everywhere + plain monochrome iOS alternate icon",
+        "Agent avatar in chat notifications (Communication Notifications)"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.1"
+    },
+    {
       "version": "0.2.0",
       "build": "202610082137",
       "commit": "26ec2f92003fb76795950afc6539a8478111cf54",
