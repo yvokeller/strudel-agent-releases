@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.6",
+      "build": "202610091245",
+      "commit": "2cf53440eab8bba7f92a941c594939c56ff6060b",
+      "date": "2026-10-09T12:47:02Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.6/Strudel-0.2.6-202610091245.dmg",
+      "length": 26096930,
+      "edSignature": "wzdZSFquUoVCXTFM3p2Xa2TbbGtmf4nzDsVO4wnNhn4xx6B1wMM51KCJuf2E509DK7F/NcEkWuW2K+7zEU1dAw==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Hand a call over to another agent (transfer_to_agent)"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.6"
+    },
+    {
       "version": "0.2.5",
       "build": "202610091227",
       "commit": "2dd0bdc811c77a1c34ee202aee08afa1a6600a40",
