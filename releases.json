@@ -1,6 +1,23 @@
 {
   "releases": [
     {
+      "version": "0.2.2",
+      "build": "202610091005",
+      "commit": "ca54e87ec1c81c3f175026fbbf8adecfca586833",
+      "date": "2026-10-09T10:07:08Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.2/Strudel-0.2.2-202610091005.dmg",
+      "length": 23843685,
+      "edSignature": "5kZRqTQXA3wVd5G2f7nZhI2xoZXmpe4WPhHu3DEW45J2A1w2PDy+Oeqt6OLmjwxbhx0HbtOlJGIxD67hPNC6Dg==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Plain monochrome icon is the default everywhere, galaxy the option",
+        "Per-instance default app icon (galaxy or plain)",
+        "Render AppMark for its largest use, 88 pt",
+        "Galaxy app icon as the native AppMark"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.2"
+    },
+    {
       "version": "0.2.1",
       "build": "202610090836",
       "commit": "5a6ccf1146ef730f65c5898c191abd6dc6564e86",

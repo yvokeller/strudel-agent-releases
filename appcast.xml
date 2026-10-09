@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.2</title>
+      <pubDate>Fri, 09 Oct 2026 10:07:08 +0000</pubDate>
+      <sparkle:version>202610091005</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.2</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Plain monochrome icon is the default everywhere, galaxy the option</li><li>Per-instance default app icon (galaxy or plain)</li><li>Render AppMark for its largest use, 88 pt</li><li>Galaxy app icon as the native AppMark</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.2/Strudel-0.2.2-202610091005.dmg" length="23843685" type="application/octet-stream" sparkle:edSignature="5kZRqTQXA3wVd5G2f7nZhI2xoZXmpe4WPhHu3DEW45J2A1w2PDy+Oeqt6OLmjwxbhx0HbtOlJGIxD67hPNC6Dg=="/>
+    </item>
+    <item>
       <title>Version 0.2.1</title>
       <pubDate>Fri, 09 Oct 2026 08:37:49 +0000</pubDate>
       <sparkle:version>202610090836</sparkle:version>
