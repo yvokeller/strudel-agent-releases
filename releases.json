@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.3",
+      "build": "202610091021",
+      "commit": "1bbab7557b6fa06369444f139e60b6ef82a72e27",
+      "date": "2026-10-09T10:22:45Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.3/Strudel-0.2.3-202610091021.dmg",
+      "length": 26075559,
+      "edSignature": "licPkUyHbYEDo9KJxg3zzXDCL+1utd6AfDgKQXe9EBzvJUhTGAZ+PWz/Q47nja4r8Rz8NN7BUHMaZotHWcnHDw==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Native macOS 26 app icon (Icon Composer .icon), no gray Dock platter"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.3"
+    },
+    {
       "version": "0.2.2",
       "build": "202610091005",
       "commit": "ca54e87ec1c81c3f175026fbbf8adecfca586833",
