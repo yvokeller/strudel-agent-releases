@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.5</title>
+      <pubDate>Fri, 09 Oct 2026 12:29:04 +0000</pubDate>
+      <sparkle:version>202610091227</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.5</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Hairline under the title bar, same as the web UI&#x27;s header border</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.5/Strudel-0.2.5-202610091227.dmg" length="26067372" type="application/octet-stream" sparkle:edSignature="/RFJ34kpQBEPATY0hysYXk0pe/jfGZhQKFMZFlp0/51O3a/ZADWS921Wb5cUGFwTwkqBzhiTR3LMSqkkwWiDBg=="/>
+    </item>
+    <item>
       <title>Version 0.2.4</title>
       <pubDate>Fri, 09 Oct 2026 10:47:44 +0000</pubDate>
       <sparkle:version>202610091046</sparkle:version>

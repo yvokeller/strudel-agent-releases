@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.5",
+      "build": "202610091227",
+      "commit": "2dd0bdc811c77a1c34ee202aee08afa1a6600a40",
+      "date": "2026-10-09T12:29:04Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.5/Strudel-0.2.5-202610091227.dmg",
+      "length": 26067372,
+      "edSignature": "/RFJ34kpQBEPATY0hysYXk0pe/jfGZhQKFMZFlp0/51O3a/ZADWS921Wb5cUGFwTwkqBzhiTR3LMSqkkwWiDBg==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Hairline under the title bar, same as the web UI's header border"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.5"
+    },
+    {
       "version": "0.2.4",
       "build": "202610091046",
       "commit": "3411fcbf8111d6a7e32aa18573a94c7edaef5bca",
