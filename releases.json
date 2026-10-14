@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.8",
+      "build": "202610140854",
+      "commit": "88c147beabbca56d6b5f9ce3310e7ac6ed9a586a",
+      "date": "2026-10-14T08:56:33Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.8/Strudel-0.2.8-202610140854.dmg",
+      "length": 26155016,
+      "edSignature": "e6VxLR8GHysKZtFTKgg/Y3bOYAUWh/DQSTcZ9nsRatiZrwR0V8/yD0YuhvU02FqyNVtLcA3SY+SK2sKbziQgBQ==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Take chat notifications off the apps once read elsewhere"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.8"
+    },
+    {
       "version": "0.2.7",
       "build": "202610140731",
       "commit": "c535725599100061b8019238fede988966d5c163",

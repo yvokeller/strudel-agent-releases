@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.8</title>
+      <pubDate>Wed, 14 Oct 2026 08:56:33 +0000</pubDate>
+      <sparkle:version>202610140854</sparkle:version>
+      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.8</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Take chat notifications off the apps once read elsewhere</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.8/Strudel-0.2.8-202610140854.dmg" length="26155016" type="application/octet-stream" sparkle:edSignature="e6VxLR8GHysKZtFTKgg/Y3bOYAUWh/DQSTcZ9nsRatiZrwR0V8/yD0YuhvU02FqyNVtLcA3SY+SK2sKbziQgBQ=="/>
+    </item>
+    <item>
       <title>Version 0.2.7</title>
       <pubDate>Wed, 14 Oct 2026 07:33:44 +0000</pubDate>
       <sparkle:version>202610140731</sparkle:version>
