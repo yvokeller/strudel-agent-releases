@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.11",
+      "build": "202610141955",
+      "commit": "bba870dc8c99ce41a955745eedaf7598817452dc",
+      "date": "2026-10-14T19:56:40Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.11/Strudel-0.2.11-202610141955.dmg",
+      "length": 27134952,
+      "edSignature": "HlH7G97awd4xLuFV1AEcMK1gpJL9iQXXUFY4P1/1fRt+Gx1hDfJy3B6gZHYSsIJHmNwaNs2Ius8/L2MNUQI0AQ==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "IOS / Mac: xAI Grok Voice calls (own audio engine, WebSocket transport)"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.11"
+    },
+    {
       "version": "0.2.10",
       "build": "202610141513",
       "commit": "e8c012a8f6ce2bf1c9a0f03918c7ec1573c16a68",
