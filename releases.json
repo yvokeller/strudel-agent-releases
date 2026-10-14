@@ -1,6 +1,23 @@
 {
   "releases": [
     {
+      "version": "0.2.7",
+      "build": "202610140731",
+      "commit": "c535725599100061b8019238fede988966d5c163",
+      "date": "2026-10-14T07:33:44Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.7/Strudel-0.2.7-202610140731.dmg",
+      "length": 26069622,
+      "edSignature": "fXr4F/+XzVK0Uxdl10Vg3beNzoq0adqD/ApRgierQovipY4X6uMRCw8oPIbnJuQKb0/moNjtFmyZWJsaKERtAw==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "MacOS overlay: drag to move with a snap grid, remembered per display; own appearance setting",
+        "Web UI: native App settings move from the sidebar to Settings \u2192 This app",
+        "Web UI: read-only Screen view of the host Mac",
+        "IOS app: chat images in Quick Look, no more pages without a way back"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.7"
+    },
+    {
       "version": "0.2.6",
       "build": "202610091245",
       "commit": "2cf53440eab8bba7f92a941c594939c56ff6060b",

@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.7</title>
+      <pubDate>Wed, 14 Oct 2026 07:33:44 +0000</pubDate>
+      <sparkle:version>202610140731</sparkle:version>
+      <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.7</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>MacOS overlay: drag to move with a snap grid, remembered per display; own appearance setting</li><li>Web UI: native App settings move from the sidebar to Settings → This app</li><li>Web UI: read-only Screen view of the host Mac</li><li>IOS app: chat images in Quick Look, no more pages without a way back</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.7/Strudel-0.2.7-202610140731.dmg" length="26069622" type="application/octet-stream" sparkle:edSignature="fXr4F/+XzVK0Uxdl10Vg3beNzoq0adqD/ApRgierQovipY4X6uMRCw8oPIbnJuQKb0/moNjtFmyZWJsaKERtAw=="/>
+    </item>
+    <item>
       <title>Version 0.2.6</title>
       <pubDate>Fri, 09 Oct 2026 12:47:02 +0000</pubDate>
       <sparkle:version>202610091245</sparkle:version>
