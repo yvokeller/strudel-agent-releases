@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.12",
+      "build": "202610142012",
+      "commit": "5a72583e26de74ade0a80cb81efadde019a74ea6",
+      "date": "2026-10-14T20:13:58Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.12/Strudel-0.2.12-202610142012.dmg",
+      "length": 27132634,
+      "edSignature": "bYtz1bVGjYgNDg33Hg5EyNdZ1Ped+0R7mFxmW80gI8qpTW+/pISMPmuHDMgpe9l/L28Ih77RNRmT2yKrHTbiDg==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "XAI calls: typing sound while the agent waits on a tool (web + iOS / Mac)"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.12"
+    },
+    {
       "version": "0.2.11",
       "build": "202610141955",
       "commit": "bba870dc8c99ce41a955745eedaf7598817452dc",
