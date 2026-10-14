@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.9",
+      "build": "202610140915",
+      "commit": "8aaf52f376bf271130c94db2a3ebfde0df68f588",
+      "date": "2026-10-14T09:17:04Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.9/Strudel-0.2.9-202610140915.dmg",
+      "length": 26162325,
+      "edSignature": "z3r4qYwpiwH7Z3c2/uFYEcFcP81KigGppzEc8n3c0Dkk7tzAJCSTcQiPqdfs/Mc1Puuy8hoCmmA5uMM3TsxsCg==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "MacOS overlay: slimmer chat box in the card's proportions"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.9"
+    },
+    {
       "version": "0.2.8",
       "build": "202610140854",
       "commit": "88c147beabbca56d6b5f9ce3310e7ac6ed9a586a",
