@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "version": "0.2.10",
+      "build": "202610141513",
+      "commit": "e8c012a8f6ce2bf1c9a0f03918c7ec1573c16a68",
+      "date": "2026-10-14T15:17:12Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.10/Strudel-0.2.10-202610141513.dmg",
+      "length": 27012910,
+      "edSignature": "6h8jW5RZVAaBsc5IQCe0wudEqzrXpcanZGW0l1bdhyJPF6pmyC0rI72AlCPtWLAoJS3T1BIlxm//ZUPmfuvLAQ==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "MacOS overlay: GFM Markdown in the answer card (tables, task lists, nested blocks)",
+        "Voice memos: silent recordings are \"nothing heard\", not a message"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.10"
+    },
+    {
       "version": "0.2.9",
       "build": "202610140915",
       "commit": "8aaf52f376bf271130c94db2a3ebfde0df68f588",

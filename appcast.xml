@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.10</title>
+      <pubDate>Wed, 14 Oct 2026 15:17:12 +0000</pubDate>
+      <sparkle:version>202610141513</sparkle:version>
+      <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.10</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>MacOS overlay: GFM Markdown in the answer card (tables, task lists, nested blocks)</li><li>Voice memos: silent recordings are &quot;nothing heard&quot;, not a message</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.10/Strudel-0.2.10-202610141513.dmg" length="27012910" type="application/octet-stream" sparkle:edSignature="6h8jW5RZVAaBsc5IQCe0wudEqzrXpcanZGW0l1bdhyJPF6pmyC0rI72AlCPtWLAoJS3T1BIlxm//ZUPmfuvLAQ=="/>
+    </item>
+    <item>
       <title>Version 0.2.9</title>
       <pubDate>Wed, 14 Oct 2026 09:17:04 +0000</pubDate>
       <sparkle:version>202610140915</sparkle:version>
