@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "version": "0.2.13",
+      "build": "202610150441",
+      "commit": "02a722f06b1c14e4365a905574d65e69cc194669",
+      "date": "2026-10-15T04:43:40Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.13/Strudel-0.2.13-202610150441.dmg",
+      "length": 27271355,
+      "edSignature": "SU18ASAYT/tn8aeentkEg9GZTov1mzTgzgPugvyMa92abNQZ+djR/WJ1e55jP2VzwnVba60NxP9QcTcznTIzBA==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "XAI calls: typing sound after 1.2 s instead of 2.5 s (web THINKING_DELAY_MS, app typingDelay)",
+        "XAI calls: recorded typing sound (CC0) instead of the synthesized one, 2.5 s delay"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.13"
+    },
+    {
       "version": "0.2.12",
       "build": "202610142012",
       "commit": "5a72583e26de74ade0a80cb81efadde019a74ea6",

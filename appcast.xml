@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.13</title>
+      <pubDate>Thu, 15 Oct 2026 04:43:40 +0000</pubDate>
+      <sparkle:version>202610150441</sparkle:version>
+      <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.13</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>XAI calls: typing sound after 1.2 s instead of 2.5 s (web THINKING_DELAY_MS, app typingDelay)</li><li>XAI calls: recorded typing sound (CC0) instead of the synthesized one, 2.5 s delay</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.13/Strudel-0.2.13-202610150441.dmg" length="27271355" type="application/octet-stream" sparkle:edSignature="SU18ASAYT/tn8aeentkEg9GZTov1mzTgzgPugvyMa92abNQZ+djR/WJ1e55jP2VzwnVba60NxP9QcTcznTIzBA=="/>
+    </item>
+    <item>
       <title>Version 0.2.12</title>
       <pubDate>Wed, 14 Oct 2026 20:13:58 +0000</pubDate>
       <sparkle:version>202610142012</sparkle:version>
