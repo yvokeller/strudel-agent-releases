@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.15</title>
+      <pubDate>Fri, 16 Oct 2026 14:13:26 +0000</pubDate>
+      <sparkle:version>202610161411</sparkle:version>
+      <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.15</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Start macOS app in menu bar and show Dock icon with main window</li><li>Owner-facing task panel replacing Open Loops</li><li>Push presence: no &#x27;active&#x27; without input (Mac overlay idle gate, synthetic pointermove), device in the push log, silent badge on drop</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.15/Strudel-0.2.15-202610161411.dmg" length="27275068" type="application/octet-stream" sparkle:edSignature="3OE7CvHRRLL0UI/5NXU6caXwQCWJ131JtumsE4Scb00jkQbdGcvOILJIoBsrwnWp1u07t3br8vV38fbCH5PtDw=="/>
+    </item>
+    <item>
       <title>Version 0.2.14</title>
       <pubDate>Thu, 15 Oct 2026 05:30:31 +0000</pubDate>
       <sparkle:version>202610150528</sparkle:version>

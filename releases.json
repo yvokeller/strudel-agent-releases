@@ -1,6 +1,22 @@
 {
   "releases": [
     {
+      "version": "0.2.15",
+      "build": "202610161411",
+      "commit": "63f05f0bceab10ddc91e268a88b3dee1e3da15bc",
+      "date": "2026-10-16T14:13:26Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.15/Strudel-0.2.15-202610161411.dmg",
+      "length": 27275068,
+      "edSignature": "3OE7CvHRRLL0UI/5NXU6caXwQCWJ131JtumsE4Scb00jkQbdGcvOILJIoBsrwnWp1u07t3br8vV38fbCH5PtDw==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Start macOS app in menu bar and show Dock icon with main window",
+        "Owner-facing task panel replacing Open Loops",
+        "Push presence: no 'active' without input (Mac overlay idle gate, synthetic pointermove), device in the push log, silent badge on drop"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.15"
+    },
+    {
       "version": "0.2.14",
       "build": "202610150528",
       "commit": "66a0012743ffacae6530c9351acdc5666aaca49d",
