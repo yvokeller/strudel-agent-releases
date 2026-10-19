@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.16</title>
+      <pubDate>Mon, 19 Oct 2026 14:31:06 +0000</pubDate>
+      <sparkle:version>202610191428</sparkle:version>
+      <sparkle:shortVersionString>0.2.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.16</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Menu bar icon = galaxy logo silhouette (vector template)</li><li>Shared Markdown files render tables, task boxes and highlighted code like the web</li><li>Fix cancelled first loads and stale page responses</li><li>IOS share sheet redesign; Agenda = rolling 7 days from today (iOS + web)</li><li>One transport for error details (WebAPI.detailed); write test for queued group saves, self-test for link routing</li><li>-writetest debug run of the write flows against a throwaway instance</li><li>IOS/macOS: show the server&#x27;s 422 field messages in API errors</li><li>Native shell foundation replacing the web view</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.16/Strudel-0.2.16-202610191428.dmg" length="27315492" type="application/octet-stream" sparkle:edSignature="nqJiKjOxYCBgWrxXLhYAMEyOwgmiaZENF/E4NXtApEVssoYBBh3KBqD16gz6u3hU2awnWApfnyOPyKDkEM0PAA=="/>
+    </item>
+    <item>
       <title>Version 0.2.15</title>
       <pubDate>Fri, 16 Oct 2026 14:13:26 +0000</pubDate>
       <sparkle:version>202610161411</sparkle:version>

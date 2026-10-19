@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "version": "0.2.16",
+      "build": "202610191428",
+      "commit": "028c9d7b991a8d3947ed94aff38c9088573e0d86",
+      "date": "2026-10-19T14:31:06Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.16/Strudel-0.2.16-202610191428.dmg",
+      "length": 27315492,
+      "edSignature": "nqJiKjOxYCBgWrxXLhYAMEyOwgmiaZENF/E4NXtApEVssoYBBh3KBqD16gz6u3hU2awnWApfnyOPyKDkEM0PAA==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Menu bar icon = galaxy logo silhouette (vector template)",
+        "Shared Markdown files render tables, task boxes and highlighted code like the web",
+        "Fix cancelled first loads and stale page responses",
+        "IOS share sheet redesign; Agenda = rolling 7 days from today (iOS + web)",
+        "One transport for error details (WebAPI.detailed); write test for queued group saves, self-test for link routing",
+        "-writetest debug run of the write flows against a throwaway instance",
+        "IOS/macOS: show the server's 422 field messages in API errors",
+        "Native shell foundation replacing the web view"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.16"
+    },
+    {
       "version": "0.2.15",
       "build": "202610161411",
       "commit": "63f05f0bceab10ddc91e268a88b3dee1e3da15bc",
