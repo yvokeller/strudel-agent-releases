@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "version": "0.2.17",
+      "build": "202610210715",
+      "commit": "db81f988db08d55885c1ad16d32e0ddba790af6a",
+      "date": "2026-10-21T07:17:19Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.17/Strudel-0.2.17-202610210715.dmg",
+      "length": 27295687,
+      "edSignature": "CMm3SFTt6Tg0V75il5dgfmYmZj3Yad9caapUGbuafaVrUr7oFe/QxYnUFnJ89+ma9xpdm1hrgh7G/27RQyoGCQ==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Mac overlay: hold \u2318 for the agent list, \u23181\u2026\u23189 switch while held; card hidden while the list is open",
+        "IOS voice memo: start recording at once while other audio plays"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.17"
+    },
+    {
       "version": "0.2.16",
       "build": "202610191428",
       "commit": "028c9d7b991a8d3947ed94aff38c9088573e0d86",
