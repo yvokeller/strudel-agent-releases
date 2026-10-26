@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.18</title>
+      <pubDate>Mon, 26 Oct 2026 08:18:51 +0000</pubDate>
+      <sparkle:version>202610260816</sparkle:version>
+      <sparkle:shortVersionString>0.2.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.18</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Mac overlay: web sidebar agent order, last agent for an hour</li><li>Live mmux terminal from the chat header</li><li>Shared files: download the original from the viewer</li><li>Fix iOS long voice memos and blank chat timelines</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.18/Strudel-0.2.18-202610260816.dmg" length="27300457" type="application/octet-stream" sparkle:edSignature="N3TBSwzicypMC6tgkBPrvLVraRQ0+7EJKL7PFCEzkLsc2g/mtls1azebaDIn2U4FE1hf5YRkF0RlrA+Q64ugDQ=="/>
+    </item>
+    <item>
       <title>Version 0.2.17</title>
       <pubDate>Wed, 21 Oct 2026 07:17:19 +0000</pubDate>
       <sparkle:version>202610210715</sparkle:version>
