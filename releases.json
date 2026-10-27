@@ -1,6 +1,22 @@
 {
   "releases": [
     {
+      "version": "0.2.19",
+      "build": "202610272134",
+      "commit": "8d8ffcd92e72d5b7fe989d61584eedce373eecd7",
+      "date": "2026-10-27T21:36:01Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.19/Strudel-0.2.19-202610272134.dmg",
+      "length": 25883490,
+      "edSignature": "kTmnhU3KWL9eGIgScU2NFy9YmGIlfg/7teQkKmJr+sHjq98mdHhCC6IziWUw1mxB+wU34d8PkGBElz9gP/vvAg==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "App icon: galaxy option becomes the colour spiral",
+        "App icon: Dark / Light / Galaxy choice, Dark by default",
+        "App icon: crisp spiral replaces the mono galaxy everywhere"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.19"
+    },
+    {
       "version": "0.2.18",
       "build": "202610260816",
       "commit": "ff2932323bf2170fb3f3fb78051f5d39dd669533",
