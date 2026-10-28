@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "version": "0.2.22",
+      "build": "202610281406",
+      "commit": "f28e845faf7263064f41e722c8076f600a5b6250",
+      "date": "2026-10-28T14:08:17Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.22/Strudel-0.2.22-202610281406.dmg",
+      "length": 26649418,
+      "edSignature": "sPb/N4QBg0pPNK9BT1lu+PYQvAR0EiCkqwFV+6f46qd1xRmDifOFXB+KaIAA/oGmDs6geAJtbwBJxEVb9VeZBg==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "App icon: Bold Open is the Strudel logo everywhere",
+        "Live Activities for tasks and watches (backend + iOS widget extension)"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.22"
+    },
+    {
       "version": "0.2.21",
       "build": "202610280738",
       "commit": "a49116f2aeb7c26b1dddd693944795f30e5d7792",
