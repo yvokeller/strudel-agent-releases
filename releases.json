@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.20",
+      "build": "202610280603",
+      "commit": "f4cbfb1316844385f71cd2f4fcfbe0f6096eebdc",
+      "date": "2026-10-28T06:06:02Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.20/Strudel-0.2.20-202610280603.dmg",
+      "length": 25918122,
+      "edSignature": "XErJ2GdSZqbT4/AnbxNSFii4dG53B+QCuxU6tnlNLuldS9SH5BwbxuOc87iomuHWjfq5a2iHUeenj5M3rPKEBw==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "App icon: Bold Open as a fourth choice next to Dark / Light / Galaxy"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.20"
+    },
+    {
       "version": "0.2.19",
       "build": "202610272134",
       "commit": "8d8ffcd92e72d5b7fe989d61584eedce373eecd7",
