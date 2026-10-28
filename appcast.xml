@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.23</title>
+      <pubDate>Wed, 28 Oct 2026 14:19:35 +0000</pubDate>
+      <sparkle:version>202610281417</sparkle:version>
+      <sparkle:shortVersionString>0.2.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.23</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>App icons: chrome / graphite gradient marks in Grok&#x27;s colour language</li><li>Revert &quot;App icon: Bold Open is the Strudel logo everywhere&quot;</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.23/Strudel-0.2.23-202610281417.dmg" length="26817913" type="application/octet-stream" sparkle:edSignature="XcyIyHZTBmNdQjdMvsXw520J7d844A+X56TJ7msAfOEo4Ud9mEH4ynMfyVcISfKjtdtEy1Y89e7r84tjuOnPDQ=="/>
+    </item>
+    <item>
       <title>Version 0.2.22</title>
       <pubDate>Wed, 28 Oct 2026 14:08:17 +0000</pubDate>
       <sparkle:version>202610281406</sparkle:version>
@@ -195,16 +205,6 @@
       <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.4</sparkle:fullReleaseNotesLink>
       <description><![CDATA[<ul><li>Overlay chat box follows the system appearance; long input wraps before the buttons</li></ul>]]></description>
       <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.4/Strudel-0.2.4-202610091046.dmg" length="26064319" type="application/octet-stream" sparkle:edSignature="FgUyW6g0xDY+Rq1C+UgaZZHERaJLw6smm7IzamTEow066NMWiQQN/GUKSHUvRBNaxkHPNhes1LZWMZeg6qmvBQ=="/>
-    </item>
-    <item>
-      <title>Version 0.2.3</title>
-      <pubDate>Fri, 09 Oct 2026 10:22:45 +0000</pubDate>
-      <sparkle:version>202610091021</sparkle:version>
-      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.3</sparkle:fullReleaseNotesLink>
-      <description><![CDATA[<ul><li>Native macOS 26 app icon (Icon Composer .icon), no gray Dock platter</li></ul>]]></description>
-      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.3/Strudel-0.2.3-202610091021.dmg" length="26075559" type="application/octet-stream" sparkle:edSignature="licPkUyHbYEDo9KJxg3zzXDCL+1utd6AfDgKQXe9EBzvJUhTGAZ+PWz/Q47nja4r8Rz8NN7BUHMaZotHWcnHDw=="/>
     </item>
   </channel>
 </rss>

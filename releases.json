@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "version": "0.2.23",
+      "build": "202610281417",
+      "commit": "3cebb4f320a83e551da81301cd6f0ff9415de027",
+      "date": "2026-10-28T14:19:35Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.23/Strudel-0.2.23-202610281417.dmg",
+      "length": 26817913,
+      "edSignature": "XcyIyHZTBmNdQjdMvsXw520J7d844A+X56TJ7msAfOEo4Ud9mEH4ynMfyVcISfKjtdtEy1Y89e7r84tjuOnPDQ==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "App icons: chrome / graphite gradient marks in Grok's colour language",
+        "Revert \"App icon: Bold Open is the Strudel logo everywhere\""
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.23"
+    },
+    {
       "version": "0.2.22",
       "build": "202610281406",
       "commit": "f28e845faf7263064f41e722c8076f600a5b6250",
