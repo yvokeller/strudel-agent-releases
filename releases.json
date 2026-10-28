@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.21",
+      "build": "202610280738",
+      "commit": "a49116f2aeb7c26b1dddd693944795f30e5d7792",
+      "date": "2026-10-28T07:40:53Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.21/Strudel-0.2.21-202610280738.dmg",
+      "length": 26580801,
+      "edSignature": "hXTKulCr5kXK7Uw+9iRZ4j0MVehiY3XExV49EBysW3bpACW+5ouxiN8emH4+KS/svV+uiv43KccE7Af9lApMCQ==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "App icon: Grok-like colour language for every icon option"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.21"
+    },
+    {
       "version": "0.2.20",
       "build": "202610280603",
       "commit": "f4cbfb1316844385f71cd2f4fcfbe0f6096eebdc",

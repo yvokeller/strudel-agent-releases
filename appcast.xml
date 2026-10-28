@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.21</title>
+      <pubDate>Wed, 28 Oct 2026 07:40:53 +0000</pubDate>
+      <sparkle:version>202610280738</sparkle:version>
+      <sparkle:shortVersionString>0.2.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.21</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>App icon: Grok-like colour language for every icon option</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.21/Strudel-0.2.21-202610280738.dmg" length="26580801" type="application/octet-stream" sparkle:edSignature="hXTKulCr5kXK7Uw+9iRZ4j0MVehiY3XExV49EBysW3bpACW+5ouxiN8emH4+KS/svV+uiv43KccE7Af9lApMCQ=="/>
+    </item>
+    <item>
       <title>Version 0.2.20</title>
       <pubDate>Wed, 28 Oct 2026 06:06:02 +0000</pubDate>
       <sparkle:version>202610280603</sparkle:version>
@@ -195,16 +205,6 @@
       <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.2</sparkle:fullReleaseNotesLink>
       <description><![CDATA[<ul><li>Plain monochrome icon is the default everywhere, galaxy the option</li><li>Per-instance default app icon (galaxy or plain)</li><li>Render AppMark for its largest use, 88 pt</li><li>Galaxy app icon as the native AppMark</li></ul>]]></description>
       <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.2/Strudel-0.2.2-202610091005.dmg" length="23843685" type="application/octet-stream" sparkle:edSignature="5kZRqTQXA3wVd5G2f7nZhI2xoZXmpe4WPhHu3DEW45J2A1w2PDy+Oeqt6OLmjwxbhx0HbtOlJGIxD67hPNC6Dg=="/>
-    </item>
-    <item>
-      <title>Version 0.2.1</title>
-      <pubDate>Fri, 09 Oct 2026 08:37:49 +0000</pubDate>
-      <sparkle:version>202610090836</sparkle:version>
-      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.1</sparkle:fullReleaseNotesLink>
-      <description><![CDATA[<ul><li>Galaxy app icon everywhere + plain monochrome iOS alternate icon</li><li>Agent avatar in chat notifications (Communication Notifications)</li></ul>]]></description>
-      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.1/Strudel-0.2.1-202610090836.dmg" length="24424602" type="application/octet-stream" sparkle:edSignature="JkWYTeMwKjRlyTLdP/9RbFG4mCI5CdYKLD542YgCFAnALubrFLL8bNcMdz24x3MBE2cG6lNj7uJylMALHoQRAw=="/>
     </item>
   </channel>
 </rss>
