@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.25</title>
+      <pubDate>Thu, 29 Oct 2026 10:23:30 +0000</pubDate>
+      <sparkle:version>202610291021</sparkle:version>
+      <sparkle:shortVersionString>0.2.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.25</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>IOS / Mac: respect shared viewers (only shared agents, no owner areas)</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.25/Strudel-0.2.25-202610291021.dmg" length="26832495" type="application/octet-stream" sparkle:edSignature="c72cx2DXDU+p3JcUwOQZkRjtfPuZ58VUqKYUFVAO9Q3eZ1KHieba43bhQM2gDmTrA+/zyVvowWsmqiA9FwmnDw=="/>
+    </item>
+    <item>
       <title>Version 0.2.24</title>
       <pubDate>Thu, 29 Oct 2026 09:03:44 +0000</pubDate>
       <sparkle:version>202610290901</sparkle:version>
@@ -195,16 +205,6 @@
       <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.6</sparkle:fullReleaseNotesLink>
       <description><![CDATA[<ul><li>Hand a call over to another agent (transfer_to_agent)</li></ul>]]></description>
       <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.6/Strudel-0.2.6-202610091245.dmg" length="26096930" type="application/octet-stream" sparkle:edSignature="wzdZSFquUoVCXTFM3p2Xa2TbbGtmf4nzDsVO4wnNhn4xx6B1wMM51KCJuf2E509DK7F/NcEkWuW2K+7zEU1dAw=="/>
-    </item>
-    <item>
-      <title>Version 0.2.5</title>
-      <pubDate>Fri, 09 Oct 2026 12:29:04 +0000</pubDate>
-      <sparkle:version>202610091227</sparkle:version>
-      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.5</sparkle:fullReleaseNotesLink>
-      <description><![CDATA[<ul><li>Hairline under the title bar, same as the web UI&#x27;s header border</li></ul>]]></description>
-      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.5/Strudel-0.2.5-202610091227.dmg" length="26067372" type="application/octet-stream" sparkle:edSignature="/RFJ34kpQBEPATY0hysYXk0pe/jfGZhQKFMZFlp0/51O3a/ZADWS921Wb5cUGFwTwkqBzhiTR3LMSqkkwWiDBg=="/>
     </item>
   </channel>
 </rss>

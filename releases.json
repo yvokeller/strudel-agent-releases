@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.25",
+      "build": "202610291021",
+      "commit": "8230a44d13df9b4c968633448a8c0d0fba7c7f3a",
+      "date": "2026-10-29T10:23:30Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.25/Strudel-0.2.25-202610291021.dmg",
+      "length": 26832495,
+      "edSignature": "c72cx2DXDU+p3JcUwOQZkRjtfPuZ58VUqKYUFVAO9Q3eZ1KHieba43bhQM2gDmTrA+/zyVvowWsmqiA9FwmnDw==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "IOS / Mac: respect shared viewers (only shared agents, no owner areas)"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.25"
+    },
+    {
       "version": "0.2.24",
       "build": "202610290901",
       "commit": "bb2620a3f386858120384efd4f9f63ab8df65d51",
