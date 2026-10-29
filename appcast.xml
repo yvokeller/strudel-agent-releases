@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.24</title>
+      <pubDate>Thu, 29 Oct 2026 09:03:44 +0000</pubDate>
+      <sparkle:version>202610290901</sparkle:version>
+      <sparkle:shortVersionString>0.2.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.24</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Maintenance release.</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.24/Strudel-0.2.24-202610290901.dmg" length="26815771" type="application/octet-stream" sparkle:edSignature="gNpQ/lx3RPkjr1Wvt9N1iuh6ge4/sLNaDL7kK1xIXee5VSl7vXjWWmVcrVjGRgYgvheLBcW0gxraN92x1uJkCw=="/>
+    </item>
+    <item>
       <title>Version 0.2.23</title>
       <pubDate>Wed, 28 Oct 2026 14:19:35 +0000</pubDate>
       <sparkle:version>202610281417</sparkle:version>
@@ -195,16 +205,6 @@
       <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.5</sparkle:fullReleaseNotesLink>
       <description><![CDATA[<ul><li>Hairline under the title bar, same as the web UI&#x27;s header border</li></ul>]]></description>
       <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.5/Strudel-0.2.5-202610091227.dmg" length="26067372" type="application/octet-stream" sparkle:edSignature="/RFJ34kpQBEPATY0hysYXk0pe/jfGZhQKFMZFlp0/51O3a/ZADWS921Wb5cUGFwTwkqBzhiTR3LMSqkkwWiDBg=="/>
-    </item>
-    <item>
-      <title>Version 0.2.4</title>
-      <pubDate>Fri, 09 Oct 2026 10:47:44 +0000</pubDate>
-      <sparkle:version>202610091046</sparkle:version>
-      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.4</sparkle:fullReleaseNotesLink>
-      <description><![CDATA[<ul><li>Overlay chat box follows the system appearance; long input wraps before the buttons</li></ul>]]></description>
-      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.4/Strudel-0.2.4-202610091046.dmg" length="26064319" type="application/octet-stream" sparkle:edSignature="FgUyW6g0xDY+Rq1C+UgaZZHERaJLw6smm7IzamTEow066NMWiQQN/GUKSHUvRBNaxkHPNhes1LZWMZeg6qmvBQ=="/>
     </item>
   </channel>
 </rss>

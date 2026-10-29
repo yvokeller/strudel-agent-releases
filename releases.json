@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.24",
+      "build": "202610290901",
+      "commit": "bb2620a3f386858120384efd4f9f63ab8df65d51",
+      "date": "2026-10-29T09:03:44Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.24/Strudel-0.2.24-202610290901.dmg",
+      "length": 26815771,
+      "edSignature": "gNpQ/lx3RPkjr1Wvt9N1iuh6ge4/sLNaDL7kK1xIXee5VSl7vXjWWmVcrVjGRgYgvheLBcW0gxraN92x1uJkCw==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Maintenance release."
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.24"
+    },
+    {
       "version": "0.2.23",
       "build": "202610281417",
       "commit": "3cebb4f320a83e551da81301cd6f0ff9415de027",
