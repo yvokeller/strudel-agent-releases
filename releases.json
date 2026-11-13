@@ -1,6 +1,27 @@
 {
   "releases": [
     {
+      "version": "0.2.26",
+      "build": "202611130829",
+      "commit": "6f8489cc94b266b593fc2f5ba6fe8dd1c326e586",
+      "date": "2026-11-13T08:31:09Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.26/Strudel-0.2.26-202611130829.dmg",
+      "length": 27181872,
+      "edSignature": "fLZTxUmcTVSw2Ozj/OHYayg4WKOxOq+Gtgdh1yW0L9jAqGxcF6+dcWnoeReoX9KoJ0zhBVU7BsbMiRHlWLKjAg==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Desktop first (Mac in use \u2192 that Mac only), option to open notifications in the browser",
+        "Share extension: no notification after a successful share",
+        "Structured card text, inline Markdown in activity and wake notes",
+        "Default icon Bold Open, add Bold Open Light; preview composer attachments",
+        "Direct voice: agent calls to the app use Direct when it is the provider",
+        "Remove topics: one conversation per agent",
+        "IOS calls: LiveKit's engine only on ElevenLabs calls (xAI / Direct: no microphone)",
+        "Direct provider \u2014 talk to the agent's own session, local STT/TTS"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.26"
+    },
+    {
       "version": "0.2.25",
       "build": "202610291021",
       "commit": "8230a44d13df9b4c968633448a8c0d0fba7c7f3a",
