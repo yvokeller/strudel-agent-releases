@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "version": "0.2.27",
+      "build": "202611131902",
+      "commit": "009b6c02d7e405841136ed1ee35a769c07657568",
+      "date": "2026-11-13T19:04:03Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.27/Strudel-0.2.27-202611131902.dmg",
+      "length": 27186064,
+      "edSignature": "8WNj76R8c5H/68x+bcxOke/pE0wEp6/GYv8hpOWa2+1devZHsMWEwgtgd5FSRjjVtTLlxOIga2UQOyn6kyZiCA==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Fix push attendance and escalate unread desktop notifications to phones",
+        "Retract everywhere once read / task opened; browsers close theirs live"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.27"
+    },
+    {
       "version": "0.2.26",
       "build": "202611130829",
       "commit": "6f8489cc94b266b593fc2f5ba6fe8dd1c326e586",
