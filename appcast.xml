@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.28</title>
+      <pubDate>Sat, 14 Nov 2026 13:11:39 +0000</pubDate>
+      <sparkle:version>202611141309</sparkle:version>
+      <sparkle:shortVersionString>0.2.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.28</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Route push alerts to the owner&#x27;s recent message device</li><li>Agent name on the locked screen, local avatar files</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.28/Strudel-0.2.28-202611141309.dmg" length="27193212" type="application/octet-stream" sparkle:edSignature="Fm08uACj93vU3+MuW5fenH76T4iPYukAjVqs/ISMy1OHpycf+zTVvL+NME1oCFO8pebKkmKyjnbG3SBlI7CCCg=="/>
+    </item>
+    <item>
       <title>Version 0.2.27</title>
       <pubDate>Fri, 13 Nov 2026 19:04:03 +0000</pubDate>
       <sparkle:version>202611131902</sparkle:version>
@@ -195,16 +205,6 @@
       <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.9</sparkle:fullReleaseNotesLink>
       <description><![CDATA[<ul><li>MacOS overlay: slimmer chat box in the card&#x27;s proportions</li></ul>]]></description>
       <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.9/Strudel-0.2.9-202610140915.dmg" length="26162325" type="application/octet-stream" sparkle:edSignature="z3r4qYwpiwH7Z3c2/uFYEcFcP81KigGppzEc8n3c0Dkk7tzAJCSTcQiPqdfs/Mc1Puuy8hoCmmA5uMM3TsxsCg=="/>
-    </item>
-    <item>
-      <title>Version 0.2.8</title>
-      <pubDate>Wed, 14 Oct 2026 08:56:33 +0000</pubDate>
-      <sparkle:version>202610140854</sparkle:version>
-      <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.8</sparkle:fullReleaseNotesLink>
-      <description><![CDATA[<ul><li>Take chat notifications off the apps once read elsewhere</li></ul>]]></description>
-      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.8/Strudel-0.2.8-202610140854.dmg" length="26155016" type="application/octet-stream" sparkle:edSignature="e6VxLR8GHysKZtFTKgg/Y3bOYAUWh/DQSTcZ9nsRatiZrwR0V8/yD0YuhvU02FqyNVtLcA3SY+SK2sKbziQgBQ=="/>
     </item>
   </channel>
 </rss>

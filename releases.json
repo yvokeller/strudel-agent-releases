@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "version": "0.2.28",
+      "build": "202611141309",
+      "commit": "fd3d3b93b459e14e7dc06b0f0fdcf405b6faac54",
+      "date": "2026-11-14T13:11:39Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.28/Strudel-0.2.28-202611141309.dmg",
+      "length": 27193212,
+      "edSignature": "Fm08uACj93vU3+MuW5fenH76T4iPYukAjVqs/ISMy1OHpycf+zTVvL+NME1oCFO8pebKkmKyjnbG3SBlI7CCCg==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Route push alerts to the owner's recent message device",
+        "Agent name on the locked screen, local avatar files"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.28"
+    },
+    {
       "version": "0.2.27",
       "build": "202611131902",
       "commit": "009b6c02d7e405841136ed1ee35a769c07657568",
