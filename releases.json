@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "version": "0.2.29",
+      "build": "202611151153",
+      "commit": "8b7dcbd3de0825dd611f077d774daa4a2562af7e",
+      "date": "2026-11-15T11:55:41Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.29/Strudel-0.2.29-202611151153.dmg",
+      "length": 27288816,
+      "edSignature": "Wy7Cm1EOtIl2FqxBV4x4U35ZRX/FAE1GeP0OyWepn2N/lcDtjIkbISLwybcWwouvYYnnc1eFHLl0YzElhoS9CQ==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "One notification routing decision (viewing \u2192 active device \u2192 phones)"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.29"
+    },
+    {
       "version": "0.2.28",
       "build": "202611141309",
       "commit": "fd3d3b93b459e14e7dc06b0f0fdcf405b6faac54",
