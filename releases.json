@@ -1,6 +1,22 @@
 {
   "releases": [
     {
+      "version": "0.2.30",
+      "build": "202611200947",
+      "commit": "9df761e122c78a4b2c2cadfdef442eaee500240f",
+      "date": "2026-11-20T09:49:36Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.30/Strudel-0.2.30-202611200947.dmg",
+      "length": 27492759,
+      "edSignature": "dNl5+vX4/XEmfZVzlwMGdwGVx57CQVrr4xxRZQGM/+BoktdymkWrk7dmfNDUaoirXo78kDOW7XkzAo/LdNWvBg==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Pause playing music while a voice memo records, resume afterwards",
+        "Direct voice: pick the working sound (chime default), played locally by web + iOS",
+        "The notification extension removes notifications read elsewhere on every chat push"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.30"
+    },
+    {
       "version": "0.2.29",
       "build": "202611151153",
       "commit": "8b7dcbd3de0825dd611f077d774daa4a2562af7e",

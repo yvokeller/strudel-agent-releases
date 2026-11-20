@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.30</title>
+      <pubDate>Fri, 20 Nov 2026 09:49:36 +0000</pubDate>
+      <sparkle:version>202611200947</sparkle:version>
+      <sparkle:shortVersionString>0.2.30</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.30</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Pause playing music while a voice memo records, resume afterwards</li><li>Direct voice: pick the working sound (chime default), played locally by web + iOS</li><li>The notification extension removes notifications read elsewhere on every chat push</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.30/Strudel-0.2.30-202611200947.dmg" length="27492759" type="application/octet-stream" sparkle:edSignature="dNl5+vX4/XEmfZVzlwMGdwGVx57CQVrr4xxRZQGM/+BoktdymkWrk7dmfNDUaoirXo78kDOW7XkzAo/LdNWvBg=="/>
+    </item>
+    <item>
       <title>Version 0.2.29</title>
       <pubDate>Sun, 15 Nov 2026 11:55:41 +0000</pubDate>
       <sparkle:version>202611151153</sparkle:version>
@@ -195,16 +205,6 @@
       <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.11</sparkle:fullReleaseNotesLink>
       <description><![CDATA[<ul><li>IOS / Mac: xAI Grok Voice calls (own audio engine, WebSocket transport)</li></ul>]]></description>
       <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.11/Strudel-0.2.11-202610141955.dmg" length="27134952" type="application/octet-stream" sparkle:edSignature="HlH7G97awd4xLuFV1AEcMK1gpJL9iQXXUFY4P1/1fRt+Gx1hDfJy3B6gZHYSsIJHmNwaNs2Ius8/L2MNUQI0AQ=="/>
-    </item>
-    <item>
-      <title>Version 0.2.10</title>
-      <pubDate>Wed, 14 Oct 2026 15:17:12 +0000</pubDate>
-      <sparkle:version>202610141513</sparkle:version>
-      <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.10</sparkle:fullReleaseNotesLink>
-      <description><![CDATA[<ul><li>MacOS overlay: GFM Markdown in the answer card (tables, task lists, nested blocks)</li><li>Voice memos: silent recordings are &quot;nothing heard&quot;, not a message</li></ul>]]></description>
-      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.10/Strudel-0.2.10-202610141513.dmg" length="27012910" type="application/octet-stream" sparkle:edSignature="6h8jW5RZVAaBsc5IQCe0wudEqzrXpcanZGW0l1bdhyJPF6pmyC0rI72AlCPtWLAoJS3T1BIlxm//ZUPmfuvLAQ=="/>
     </item>
   </channel>
 </rss>
