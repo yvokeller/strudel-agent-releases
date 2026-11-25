@@ -7,6 +7,16 @@
     <description>Updates of Strudel for macOS</description>
     <language>en</language>
     <item>
+      <title>Version 0.2.31</title>
+      <pubDate>Wed, 25 Nov 2026 10:03:28 +0000</pubDate>
+      <sparkle:version>202611251001</sparkle:version>
+      <sparkle:shortVersionString>0.2.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.31</sparkle:fullReleaseNotesLink>
+      <description><![CDATA[<ul><li>Throttled retracts, delivery receipts, device overview</li><li>Automatic, stable sidebar order for agents and groups (web + iOS/Mac)</li><li>Direct voice: new working sounds (glow default) + preview on select in Settings</li></ul>]]></description>
+      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.31/Strudel-0.2.31-202611251001.dmg" length="27596901" type="application/octet-stream" sparkle:edSignature="zM/yei5iI0NtOPgNOuL9MEKCW5zjJTI58H1KqT/uSxRK257R6fAYZvZCFSnREZXUkzArEUntcuy+xjR+LwDOBg=="/>
+    </item>
+    <item>
       <title>Version 0.2.30</title>
       <pubDate>Fri, 20 Nov 2026 09:49:36 +0000</pubDate>
       <sparkle:version>202611200947</sparkle:version>
@@ -195,16 +205,6 @@
       <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.12</sparkle:fullReleaseNotesLink>
       <description><![CDATA[<ul><li>XAI calls: typing sound while the agent waits on a tool (web + iOS / Mac)</li></ul>]]></description>
       <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.12/Strudel-0.2.12-202610142012.dmg" length="27132634" type="application/octet-stream" sparkle:edSignature="bYtz1bVGjYgNDg33Hg5EyNdZ1Ped+0R7mFxmW80gI8qpTW+/pISMPmuHDMgpe9l/L28Ih77RNRmT2yKrHTbiDg=="/>
-    </item>
-    <item>
-      <title>Version 0.2.11</title>
-      <pubDate>Wed, 14 Oct 2026 19:56:40 +0000</pubDate>
-      <sparkle:version>202610141955</sparkle:version>
-      <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <sparkle:fullReleaseNotesLink>https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.11</sparkle:fullReleaseNotesLink>
-      <description><![CDATA[<ul><li>IOS / Mac: xAI Grok Voice calls (own audio engine, WebSocket transport)</li></ul>]]></description>
-      <enclosure url="https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.11/Strudel-0.2.11-202610141955.dmg" length="27134952" type="application/octet-stream" sparkle:edSignature="HlH7G97awd4xLuFV1AEcMK1gpJL9iQXXUFY4P1/1fRt+Gx1hDfJy3B6gZHYSsIJHmNwaNs2Ius8/L2MNUQI0AQ=="/>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,22 @@
 {
   "releases": [
     {
+      "version": "0.2.31",
+      "build": "202611251001",
+      "commit": "84e50e9816d99f2ec0f3acfc482538bb16274935",
+      "date": "2026-11-25T10:03:28Z",
+      "url": "https://github.com/yvokeller/strudel-agent-releases/releases/download/v0.2.31/Strudel-0.2.31-202611251001.dmg",
+      "length": 27596901,
+      "edSignature": "zM/yei5iI0NtOPgNOuL9MEKCW5zjJTI58H1KqT/uSxRK257R6fAYZvZCFSnREZXUkzArEUntcuy+xjR+LwDOBg==",
+      "minimumSystemVersion": "26.0",
+      "notes": [
+        "Throttled retracts, delivery receipts, device overview",
+        "Automatic, stable sidebar order for agents and groups (web + iOS/Mac)",
+        "Direct voice: new working sounds (glow default) + preview on select in Settings"
+      ],
+      "page": "https://github.com/yvokeller/strudel-agent-releases/releases/tag/v0.2.31"
+    },
+    {
       "version": "0.2.30",
       "build": "202611200947",
       "commit": "9df761e122c78a4b2c2cadfdef442eaee500240f",
